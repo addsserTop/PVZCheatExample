@@ -1,4 +1,4 @@
-PVZ存放了游戏（年度版），PVZCheat存放了源码。
+PVZCheat存放了源码。
 win10+VS2019编译
 作者:Addsser
 QQ群:723274680
